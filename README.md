@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zbinx
 - 👀 I’m interested in Linux, Infosec, GoLang, Python and Bash.
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently learning python webscarping
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me ...
 
